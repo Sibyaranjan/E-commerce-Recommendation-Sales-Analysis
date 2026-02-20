@@ -1,4 +1,4 @@
-# E_Commerce_Sales_and_Return_Analysis
+# E-commerce Recommendation & Sales Analysis
 ## Project Overview:-
 
 The **E-Commerce Sales & Return Analysis** project aims to analyze sales performance, profitability, and return trends across different regions, products, and sales channels. The insights derived from this analysis help in identifying high-performing products, understanding customer return patterns, and improving business profitability.
